@@ -97,3 +97,9 @@ Follow the steps provided in the [Configuring the server section](https://actual
 7. The final step is to select the account you want to sync and click Link account
 
 ![](/static/img/connecting-your-bank/connecting-your-bank-10.png)
+
+### Frequently Asked Questions
+**How do you sync with your bank?*
+
+At this moment Actual doet not yet support automatical syncing. You need to do this manually by pressing "Sync" on the "All Acounts" page.
+<img width="434" alt="syncing-with-your-bank" src="https://user-images.githubusercontent.com/10551808/226281997-dce1f544-962c-4e77-bdd3-1b18a6909a03.png">
